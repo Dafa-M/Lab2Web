@@ -19,7 +19,7 @@ CSS (Cascading Style Sheets) berfungsi untuk mengatur tampilan halaman web agar 
 Eksperimen dilakukan dengan menambahkan berbagai properti ke elemen HTML. Elemen h1 akan memiliki teks berwarna biru, ukuran besar, rata tengah, huruf kapital semua, serta jarak antar huruf. 
 Elemen p akan berwarna hijau, memiliki latar belakang abu-abu, diberi padding 15px, garis tepi abu-abu, dan jarak antarbaris lebih longgar.
 
-![gambar](2ks.png)
+![gambar](eks.png)
 ![gambar](eks2.png)
 
   2. Perbedaan h1 {…} dengan intro h1 {…}
